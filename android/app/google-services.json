@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307652046877",
+    "project_id": "studentlms-e9f95",
+    "storage_bucket": "studentlms-e9f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307652046877:android:b506aa8f5aad76cf33d6f4",
+        "android_client_info": {
+          "package_name": "com.example.student_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJrAJLFfP4DD1Q5sA1m5tNliL-j3lov7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
